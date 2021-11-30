@@ -1,5 +1,10 @@
 ### Hello! I'm Corey - aka [Cdukedev](linkedin.com/in/corey-duke-full-stack-dev)
 
+<!-- insert picture of me here -->
+[<img align="center" alt="https://dropover.cloud/b30000" width="999px × 2048px" src="https://dropover.cloud/b30000" />][website]
+
+
+
 ## My Passions Are In Sustainability, Agriculture, Computer Science, Music, God, Nature, Family, Cooking, and Growing Stronger Communities.
 
 - Currently enrolled full time for Software Development at Broward College
