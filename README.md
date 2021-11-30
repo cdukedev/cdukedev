@@ -1,7 +1,12 @@
-## Hello! I'm Corey - aka [Cdukedev](linkedin.com/in/corey-duke-full-stack-dev)
+### Hello! I'm Corey - aka [Cdukedev](linkedin.com/in/corey-duke-full-stack-dev)
+
+<!-- insert picture of me here from website with width set to 500px and height set to 1024 px-->
+[<img src="https://imgur.com/a/0fzKGms" width="500" height="1024" alt="me" />]
 
 
-### My Passions Are In Sustainability, Agriculture, Computer Science, Music, God, Nature, Family, Cooking, and Growing Stronger Communities.
+
+
+## My Passions Are In Sustainability, Agriculture, Computer Science, Music, God, Nature, Family, Cooking, and Growing Stronger Communities.
 
 - Currently enrolled full time for Software Development at Broward College
 - Life Long Learning
@@ -9,11 +14,6 @@
 - Excited to work on world changing projects aligned with my passions.
 - I am a self-starter and a team player.
 
-### Connect with me:
-<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
-
-
-<br />
 
 ### Languages and Tools:
 
@@ -31,25 +31,6 @@
 ---
 
 <!--START_SECTION:activity-->
-
-name: Update README
-
-on:
-  schedule:
-    - cron: '*/30 * * * *'
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
-
-    steps:
-      - uses: actions/checkout@v2
-      - uses: cdukedev/github-activity-readme@main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
 
 
 
