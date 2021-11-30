@@ -1,10 +1,5 @@
 ### Hello! I'm Corey - aka [Cdukedev](linkedin.com/in/corey-duke-full-stack-dev)
 
-<!-- insert picture of me here from website with width set to 500px and height set to 1024 px-->
-[<img src="https://imgur.com/a/0fzKGms" width="500" height="1024" alt="me" />]
-
-
-
 
 ## My Passions Are In Sustainability, Agriculture, Computer Science, Music, God, Nature, Family, Cooking, and Growing Stronger Communities.
 
@@ -15,12 +10,8 @@
 - I am a self-starter and a team player.
 
 ### Connect with me:
+<img src="{https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white}" />
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -51,14 +42,7 @@
 <!--END_SECTION:activity-->
 
 </details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="cDukeDev's GitHub Stats" src="https://infallible-bose-738fc4.netlify.app/api?username=cdukedev&show_icons=true&hide_border=true" />
-
-</details>
-
+ 
 [website]: https://imgur.com/a/0fzKGms
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
