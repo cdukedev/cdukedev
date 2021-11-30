@@ -58,7 +58,7 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
+[website]: https://dropover.cloud/b30000
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
