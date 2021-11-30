@@ -1,7 +1,7 @@
 ### Hello! I'm Corey - aka [Cdukedev](linkedin.com/in/corey-duke-full-stack-dev)
 
 <!-- insert picture of me here -->
-[<img align="center" alt="https://imgur.com/a/0fzKGms" width="999px × 2048px" src="https://imgur.com/a/0fzKGms" />][website]
+[<img align="center" alt="https://imgur.com/a/0fzKGms" width=999px height=2048px src="https://i.imgur.com/0fzKGms.jpg" />]
 
 
 
