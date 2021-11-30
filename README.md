@@ -1,11 +1,5 @@
 ### Hello! I'm Corey - aka [Cdukedev](linkedin.com/in/corey-duke-full-stack-dev)
 
-<!-- insert picture of me here from website with width set to 500px and height set to 1024 px-->
-[<img src="https://imgur.com/a/0fzKGms" width="500" height="1024" alt="me" />]
-
-
-
-
 ## My Passions Are In Sustainability, Agriculture, Computer Science, Music, God, Nature, Family, Cooking, and Growing Stronger Communities.
 
 - Currently enrolled full time for Software Development at Broward College
