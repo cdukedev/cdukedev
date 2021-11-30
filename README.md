@@ -1,7 +1,7 @@
 ### Hello! I'm Corey - aka [Cdukedev](linkedin.com/in/corey-duke-full-stack-dev)
 
 <!-- insert picture of me here -->
-[<img align="center" alt="https://dropover.cloud/b30000" width="999px × 2048px" src="https://dropover.cloud/b30000" />][website]
+[<img align="center" alt="https://imgur.com/a/0fzKGms" width="999px × 2048px" src="https://imgur.com/a/0fzKGms" />][website]
 
 
 
@@ -58,7 +58,7 @@
 
 </details>
 
-[website]: https://dropover.cloud/b30000
+[website]: https://imgur.com/a/0fzKGms
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://youtube.com/codeSTACKr
