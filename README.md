@@ -1,4 +1,4 @@
-### Hello! I'm Corey - aka [Cdukedev](linkedin.com/in/corey-duke-full-stack-dev)
+### Hello! I'm Corey - (linkedin.com/in/corey-duke-full-stack-dev)
 
 ## My Passions Are In Sustainability, Agriculture, Computer Science, Music, God, Nature, Family, Cooking, and Growing Stronger Communities.
 
