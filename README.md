@@ -1,6 +1,6 @@
 ### Hello! I'm Corey - (linkedin.com/in/corey-duke-full-stack-dev)
 
-## My Passions Are In Sustainability, Agriculture, Computer Science, Music, God, Nature, Family, Cooking, and Growing Stronger Communities.
+## 
 
 - Currently enrolled full time for Software Development at Broward College
 - Life Long Learning
