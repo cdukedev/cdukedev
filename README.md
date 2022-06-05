@@ -2,11 +2,6 @@
 
 ## 
 
-- Currently enrolled full time for Software Development at Broward College
-- Life Long Learning
-- 10 years experience in Retail as Produce leadership for an Organic certified grocer.
-- Excited to work on world changing projects aligned with my passions.
-- I am a self-starter and a team player.
 
 ### Connect with me:
 
