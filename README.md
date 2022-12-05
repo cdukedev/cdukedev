@@ -28,11 +28,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="cDukeDev's GitHub Stats" src="https://infallible-bose-738fc4.netlify.app/api?username=cdukedev&show_icons=true&hide_border=true" />
-
 </details>
 
 [website]: https://imgur.com/a/0fzKGms
