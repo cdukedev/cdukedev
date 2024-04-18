@@ -1,29 +1,55 @@
-### Hello! I'm Corey 
+# Corey Duke
 
-## 
+## Software Engineer | Product Management
 
+### Contact Information
+- 📧 Email: [corey.duke001@mymdc.net](mailto:corey.duke001@mymdc.net)
+- 🌐 Website: [cdukedev.me](http://cdukedev.me)
+- 🔗 LinkedIn: [corey-duke](https://www.linkedin.com/in/corey-duke)
+- 📱 Phone: (954) 793-0615
 
-### Connect with me:
+### About Me
+Community-focused Software Engineer and proactive Product Manager, proficient in managing technical projects. Demonstrated success in driving educational initiatives and delivering innovative technology solutions in a diverse range of industries and problem spaces.
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### Skills
+- **Programming Languages**: JavaScript, Python, SQL, CSS, HTML
+- **Frameworks/Libraries**: React, Next.js, Node.js, Express
+- **Tools**: Tableau, Excel, GitHub, VSCode, Terminal, JIRA, Confluence, Notion, APIs, Oracle, Azure, AWS, OAuth, MySQL, BeautifulSoup
+- **Testing**: Unit, End-to-end, Integration Testing
+- **Design**: Figma
 
-<br />
+### Education
+- **Miami Dade College**: Associate of Science in Applied AI (Intent to continue with Bachelors)
+- **BrainStation, Miami, FL**: Full Stack Web Development Diploma
+- **Broward College, Davie, FL**: Associate of Science in Computer Science
+- **Udacity**: Intro To Programming Nanodegree
 
-### Languages and Tools:
+### Experience
+- **President – INIT at Miami Dade College North Campus**
+  - Championed the development and execution of technical workshops.
+  - Enhanced chapter visibility and industry-academic partnerships.
+- **Software Engineer / Data Integration Specialist - Underline | Volunteer**
+  - Developed and deployed an automation solution, enhancing CRM system by reducing manual data tasks by 97%.
+- **Software Engineer Teaching Assistant - BrainStation**
+  - Directed project-based learning initiatives using Agile methods.
+  - Conducted detailed code reviews and streamlined the development workflow.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+### Portfolio
+- **[BeBold – Chrome Extension](#)**: Full-Stack Open-Source project aimed at helping users with ADHD.
+- **[IntelliSchedule – Chrome Extension](#)**: Utilized AI for web scraping and sentiment analysis.
+- **[Codenected - Product Manager](#)**: Led a cross-functional team in a full-stack development project.
+- **[Gathering Mia – Full-Stack Application](#)**: Facilitated a process for volunteers distributing meals from food banks.
 
 ---
+
+> I am always open to collaborate on projects and innovative/disruptive ideas. Find me on [GitHub](https://github.com/cdukedev) as **cdukedev**.
+
+![Corey's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdukedev&show_icons=true)
+
+### Let's Connect!
+Feel free to reach out if you want to talk about potential collaborations in tech, product management, or anything creative!
+
+
 
 </details>
 
