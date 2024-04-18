@@ -1,4 +1,4 @@
-### Hello! I'm Corey - (linkedin.com/in/corey-duke-full-stack-dev)
+### Hello! I'm Corey 
 
 ## 
 
