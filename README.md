@@ -3,10 +3,9 @@
 ## Software Engineer | Product Management
 
 ### Contact Information
-- 📧 Email: [corey.duke001@mymdc.net](mailto:corey.duke001@mymdc.net)
+- 📧 Email: [cdukedev@gmail.com](mailto:cdukedev@gmail.com)
 - 🌐 Website: [cdukedev.me](http://cdukedev.me)
 - 🔗 LinkedIn: [corey-duke](https://www.linkedin.com/in/corey-duke)
-- 📱 Phone: (954) 793-0615
 
 ### About Me
 Community-focused Software Engineer and proactive Product Manager, proficient in managing technical projects. Demonstrated success in driving educational initiatives and delivering innovative technology solutions in a diverse range of industries and problem spaces.
