@@ -41,10 +41,6 @@ Community-focused Software Engineer and proactive Product Manager, proficient in
 
 ---
 
-> I am always open to collaborate on projects and innovative/disruptive ideas. Find me on [GitHub](https://github.com/cdukedev) as **cdukedev**.
-
-![Corey's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdukedev&show_icons=true)
-
 ### Let's Connect!
 Feel free to reach out if you want to talk about potential collaborations in tech, product management, or anything creative!
 
